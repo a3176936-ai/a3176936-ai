@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 About Me
+
+- 🎓 CSE student 
+- 💻 Currently learning Web Development, Java, DSA & DBMS
+- 🛠️ Tools: HTML, CSS, JavaScript, React, Java, MySQL, Git & GitHub
+- 📫 Reach me through GitHub or LinkedIn
